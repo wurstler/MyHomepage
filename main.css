@@ -71,3 +71,15 @@
   font-family: 'Shift', sans-serif;
   font-weight: normal;
 }
+.links h1 {
+  color: grey;
+  font-size: 48px;
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+.links ul{
+  color: blue;
+  font-size: 28px;
+  font-family: 'Shift', sans-serif;
+  font-weight: normal;
+}
