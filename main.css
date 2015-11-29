@@ -44,9 +44,6 @@
   font-weight: bold;
 }
 
-.learn-more a {
-  color: #00b0ff;
-}
 .module {
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
@@ -65,9 +62,9 @@
   font-family: 'Shift', sans-serif;
   font-weight: bold;
 }
-.impressum ul {
+.impressum {
   color: grey;
-  font-size: 28px;
+  font-size: 24px;
   font-family: 'Shift', sans-serif;
   font-weight: normal;
 }
@@ -82,4 +79,11 @@
   font-size: 28px;
   font-family: 'Shift', sans-serif;
   font-weight: normal;
+}
+nav a {
+  color: #5a5a5a;
+  font-size: 14px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
 }
