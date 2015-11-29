@@ -1,15 +1,13 @@
 <!DOCTYPE html>
-<html lang="de">
+<html>
 
   <head>
-    <meta charset="utf-8">
     <link href="http://s3.amazonaws.com/codecademy-content/courses/ltp/css/shift.css" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
     <link rel="stylesheet" href="main.css">
-    <title>Links</title>
+        <title>Impressum</title>
 
   </head>
-
   <body>
     <div class="nav">
       <div class="container">
@@ -21,19 +19,25 @@
         </ul>
       </div>
     </div>
-    <div class="links">
+    <div class="impressum">
     <div class="container">
     <div class= "col-md-4">
-    <h1>Codecademy Skills und GitHub<h1>
+    <h1>IMPRESSUM</h1>
       <ul>
-        <li><a href="https://www.codecademy.com/Wurstler#completed">Codecademy Skills</a></li>
-        <li><a href="https://github.com/wurstler/MyHomepage/pull/1#event-475501682">GitHub Pull-Request (meine Website)</a></li>
-        <li><a href="https://github.com/CAdam87/ibs_hue1/pull/2#event-475496681">GitHub Pull-Request (Website des Partners)</a></li>
+        <li>Ante Janosch Schwender</li>
+        <li>Runkeler Str. 3</li>
+        <li>35781 Weilburg</li>
+        <li>ante.schwender@web.de</li>
       </ul>
+
+					<h2>Bildnachweis:</h2>
+
+					<p>Hintergrundbild von <a href="http://www.uni-halle.de/informatik/">www.uni-halle.de</a></p>
   </div>
 </div>
 </div>
 
 
-   </body>
-</html>
+
+  </body>
+  </html>

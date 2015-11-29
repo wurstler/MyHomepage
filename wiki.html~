@@ -11,16 +11,15 @@
   <body>
     <nav>
       <a href="index.html">Startseite</a></li>
-          <!--<a href="wiki.html">Wikipedia Search</a>
-          <a href="impressum.html">Impressum</a>
-          <a href="links.html">Badges und GitHub</a>-->
+          <!--<li><a href="wiki.html">Wikipedia Search</a></li>
+          <li><a href="impressum.html">Impressum</a></li>
+          <li><a href="links.html">Badges und GitHub</a></li>-->
     </nav>
     <h1>Wikipedia Suche</h1>
     <form action="http://de.wikipedia.org/wiki/Spezial:Suche">
   <fieldset>
     <legend>Suchen</legend>
-    <label for="search">Suchwort:</label>
-    <input type="text" id="search"  name="search" value="" />
+    <input type="text"   name="search" value="" />
     <input type="submit" name="go" value="Artikel"/>
     <input type="submit" name="fulltext" value="Volltext" />
   </fieldset>
