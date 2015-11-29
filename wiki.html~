@@ -11,20 +11,21 @@
   <body>
     <nav>
       <a href="index.html">Startseite</a></li>
-          <!--<li><a href="wiki.html">Wikipedia Search</a></li>
-          <li><a href="impressum.html">Impressum</a></li>
-          <li><a href="links.html">Badges und GitHub</a></li>-->
+          <!--<a href="wiki.html">Wikipedia Search</a>
+          <a href="impressum.html">Impressum</a>
+          <a href="links.html">Badges und GitHub</a>-->
     </nav>
     <h1>Wikipedia Suche</h1>
     <form action="http://de.wikipedia.org/wiki/Spezial:Suche">
   <fieldset>
     <legend>Suchen</legend>
-    <input type="text"   name="search" value="" />
+    <label for="search">Suchwort:</label>
+    <input type="text" id="search"  name="search" value="" />
     <input type="submit" name="go" value="Artikel"/>
     <input type="submit" name="fulltext" value="Volltext" />
   </fieldset>
 </form>
-<a href="http://wave.webaim.org/report#/caibshue1.cloudcontrolled.com/suche.html"
+<a href="http://wave.webaim.org/report#/http://anteschwender.cloudcontrolled.com/wiki.html"
 title="Erklärung von WCAG 2.0 Level Triple-A Conformance">
 <img src="http://www.w3.org/WAI/wcag2AAA-blue" alt="Level Triple-A conformance, W3C WAI Web Content Accessibility Guidelines 2.0">
 </a>
